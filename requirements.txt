@@ -23,6 +23,7 @@ djangorestframework==3.14.0
 djangorestframework-simplejwt==5.3.0
 exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1692026125334/work
 executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1667317341051/work
+gunicorn==21.2.0
 idna @ file:///C:/ci_311/idna_1676424932545/work
 importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1688754491823/work
 ipykernel @ file:///D:/bld/ipykernel_1693880431923/work
