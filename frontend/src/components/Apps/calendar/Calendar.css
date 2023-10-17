@@ -1,0 +1,18 @@
+/* Add this CSS to your existing styles or in a separate .css file */
+table {
+    border-collapse: collapse;
+    border: 7px solid #00a419;
+    background-color: #91f6a0;
+    font-size: 2rem;
+    font-weight: bolder;
+  }
+  
+  td,th {
+    border: 3px solid #049236;
+    text-align: center;
+    height: 5rem;
+    width: 5rem;
+  }
+  
+
+  

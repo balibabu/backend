@@ -1,0 +1,4 @@
+a {
+    text-decoration: none; /* Remove underlines */
+    color: inherit; /* Inherit color from parent element */
+}

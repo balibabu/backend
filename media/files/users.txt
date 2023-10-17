@@ -1,0 +1,25 @@
+{
+    "firstname":"balibabu",
+    "lastname":"chauhan",
+    "password":"12345",
+    "email":"bali@gmai.com"
+}
+
+{
+    "firstname":"Raju",
+    "lastname":"chauhan",
+    "password":"12345",
+    "email":"bali@gmai.com",
+"username":"raju"
+}
+
+
+{
+"username":"balibabuc",
+"password":"12345",
+"email":"ba1@g.com"
+}
+
+{
+"taskname":"task2"
+}

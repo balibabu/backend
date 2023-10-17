@@ -1,0 +1,43 @@
+._btn {
+    width: 10rem;
+    height: 10rem;
+}
+
+.green {
+    background-color: green;
+    border-top-left-radius: 100%;
+    border-top: 5px solid black;
+    border-left: 5px solid black;
+}
+.red {
+    background-color: red;
+    border-top-right-radius: 100%;
+    border-top: 5px solid black;
+    border-right: 5px solid black;
+}
+
+.blue {
+    background-color: blue;
+    border-bottom-left-radius: 100%;
+    border-bottom: 5px solid black;
+    border-left: 5px solid black;
+    /* box-shadow: h-offset v-offset blur spread color; */
+}
+
+.yellow {
+    background-color: yellow;
+    border-bottom-right-radius: 100%;
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+
+}
+
+.game-over {
+    background-color: rgb(255, 76, 76);
+    opacity: 0.8;
+}
+
+.pressed {
+    box-shadow: 0 0 20px white;
+    background-color: grey;
+}
