@@ -28,12 +28,13 @@ export const AuthProvider = ({ children }) => {
 
     var url_localhost = 'http://127.0.0.1:8000'
     var url_ngrock_static = "https://seriously-direct-unicorn.ngrok-free.app"
-    var urls = [url_localhost, url_ngrock_static]
+    var url_pythonanywhere="https://balibabu.pythonanywhere.com"
+    var urls = [url_localhost, url_ngrock_static,url_pythonanywhere]
     const contextData = {
         authTokens,
         loginUser,
         logoutUser,
-        url: urls[0],  // change here  1-> for ngrok
+        url: urls[2],  // change here  1-> for ngrok
     };
 
     return (
